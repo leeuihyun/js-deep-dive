@@ -1,4 +1,4 @@
-console.log(number);
-number = 80;
-var number;
-console.log(number);
+inputValue = document.getElementById("test");
+document.getElementById("button").addEventListener("click", function () {
+    inputValue.value = "";
+});
