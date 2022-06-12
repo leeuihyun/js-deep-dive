@@ -10,3 +10,4 @@
 | [변수 선언의 실행 시점과 할당, 변수 호이스팅](https://github.com/leeuihyun/js-deep-dive/tree/main/04_/1_.md) |
 |              [암묵적 타입 변환](https://github.com/leeuihyun/js-deep-dive/tree/main/07_/1_.md)               |
 |                [typeof 연산자](https://github.com/leeuihyun/js-deep-dive/tree/main/07_/2_.md)                |
+|                 [await/async](https://github.com/leeuihyun/js-deep-dive/tree/main/07_/2_.md)                 |
