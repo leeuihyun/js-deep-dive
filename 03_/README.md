@@ -2,9 +2,10 @@
 
 ---
 
-
+```javascript
 function openTab() {
-    window.open('https://play.google.com/store/apps/details?id=com.drishya');
+    window.open('~~~~');
   }
 
 <Link onClick={openTab}></Link>
+```
