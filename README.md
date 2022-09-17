@@ -11,3 +11,9 @@
 |              [암묵적 타입 변환](https://github.com/leeuihyun/js-deep-dive/tree/main/07_/1_.md)               |
 |                [typeof 연산자](https://github.com/leeuihyun/js-deep-dive/tree/main/07_/2_.md)                |
 |                 [await/async](https://github.com/leeuihyun/js-deep-dive/tree/main/07_/2_.md)                 |
+
+---
+
+참고링크
+
+[Js str](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String)
