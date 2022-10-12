@@ -107,8 +107,16 @@ title - user에게 보여줄 문자열, default - 입력필드의 초깃값
 `let array = new Array(1,2,3)`
 
 - 배열 함수
-`concat`
 
+`concat`
+  * 기존 배열 변경 x 
+  * 추가된 새로운 배열 반환
+  ```javascript
+    const array1 = ['a', 'b', 'c'];
+    const array2 = ['d', 'e', 'f'];
+    const array3 = array1.concat(array2);
+
+  ```
 `join`
 
 `pop`
