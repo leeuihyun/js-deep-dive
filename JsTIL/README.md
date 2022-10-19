@@ -78,6 +78,7 @@ title - user에게 보여줄 문자열, default - 입력필드의 초깃값
   const result = confirm('당신이 맞습니까?');
   alert(result);
 ```
+
 확인을 누를시 true, 아닐시 false를 출력한다.  
 
 > 형 변환  
